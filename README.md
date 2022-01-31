@@ -2,4 +2,4 @@
 - 👀 I’m interested in Game Making , Unity , C#
 - 🌱 I’m currently learning Unity And C#
 - 💞️ I’m looking to collaborate on Making An Action RPG Which Is Like Diablo Or Torchlight 
-- 📫 How to reach me: https://t.me/NS_13 , https://www.instagram.com/nima78sattari/ , https://twitter.com/sattari_nima
+- 📫 How to reach me: [Twitter](https://twitter.com/sattari_nima) , [Telegram](https://t.me/NS_13) , [Instagram](https://www.instagram.com/nima78sattari/)
